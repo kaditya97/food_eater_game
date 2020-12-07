@@ -1,3 +1,3 @@
 # Food Eater Game
 
-<!-- ![App Image](./img1.png) -->
+![App Image](./image1.png)
